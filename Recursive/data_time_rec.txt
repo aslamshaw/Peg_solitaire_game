@@ -1,0 +1,18 @@
+ for            1 iteration
+
+ computational time=   1.03125000     Sec
+
+ visualisation time=   4.68750000E-02 Sec
+
+ for            2 iteration
+
+ computational time=   1.07812500     Sec
+
+ visualisation time=   0.00000000     Sec
+
+ for            3 iteration
+
+ computational time=   1.07812500     Sec
+
+ visualisation time=   1.56250000E-02 Sec
+
